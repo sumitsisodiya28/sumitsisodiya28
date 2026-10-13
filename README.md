@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sumitsisodiya28/sumitsisodiya28/main/sun%20beauty.gif" width="350" alt="sun">
+  <img src="https://raw.githubusercontent.com/sumitsisodiya28/sumitsisodiya28/main/sun%20beauty.gif" width="800" alt="sun">
 </p>
 
 <p align="center">
