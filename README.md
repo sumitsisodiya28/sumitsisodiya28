@@ -1,9 +1,5 @@
-<!--
-just the sun.
--->
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ4Z5q3q6o/giphy.gif" width="320" alt="sun">
+  <img src="https://raw.githubusercontent.com/sumitsisodiya28/sumitsisodiya28/main/sun%20beauty.gif" width="350" alt="sun">
 </p>
 
 <p align="center">
