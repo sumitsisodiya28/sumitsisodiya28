@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  building <strong><a href="https://github.com/arthneura">Arthneura</a></strong> — a market and settlement layer for AI agents on Substrate.
+  building <a href="https://github.com/arthneura"><img src="https://img.shields.io/badge/Arthneura-181717?style=flat-square&logo=github&logoColor=white" alt="Arthneura"/></a> — a market and settlement layer for AI agents on Substrate.
 </p>
 
 <p align="center">
@@ -20,18 +20,14 @@
 
 <p align="center">
   <a href="https://arthneura.com">
-    <img src="https://img.shields.io/badge/arthneura.com-111111?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/arthneura">
-    <img src="https://img.shields.io/badge/arthneura-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/arthneura.com-ff6f00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   &nbsp;
   <a href="https://x.com/SumitSisodiya28">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   &nbsp;
   <a href="mailto:founder@arthneura.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-ff6f00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
