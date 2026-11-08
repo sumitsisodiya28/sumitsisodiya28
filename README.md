@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://arthneura.com">
-    <img src="https://img.shields.io/badge/arthneura.com-ff6f00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/arthneura.com-ff6f00?style=for-the-badge&logoColor=white" alt="Website"/>
   </a>
   &nbsp;
   <a href="https://x.com/SumitSisodiya28">
